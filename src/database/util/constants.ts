@@ -1,0 +1,3 @@
+export const REPOSITORY_CONSTANTS = {
+  DATA_SOURCE: 'DATA_SOURCE',
+};
